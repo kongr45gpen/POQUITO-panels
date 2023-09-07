@@ -1,2 +1,4 @@
 (sym_lib_table
+  (version 7)
+  (lib (name "SideSolarPowerBoard-rescue")(type "KiCad")(uri "${KIPRJMOD}/SideSolarPowerBoard-rescue.kicad_sym")(options "")(descr ""))
 )
