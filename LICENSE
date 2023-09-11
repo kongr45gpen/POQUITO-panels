@@ -318,6 +318,10 @@ SideSolarPowerBoard project, licensed under CERN OHL v1.2.
 CHANGES:
 For a complete listing of changes, please refer to the git commit history.
 - Relicensed to CERN-OHL-v2-W
+- Added a magnetorquer coil in new inner 4 layers
+- Added a sun sensor in the outer layer
+- Added a 4-pin interface connector in the inner part
+- Added University of Luxembourg logos
 
 Original license from qubik-spb repository:
 https://gitlab.com/librespacefoundation/qubik/qubik-spb/
